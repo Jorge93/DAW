@@ -1,0 +1,11 @@
+header{
+    background: #e8e8e8;
+    color:#797979;
+}
+.logo{
+    height: 54px;
+    background: #8ef0b0;
+}
+.menu li:hover{
+    background: #c6c0c0;
+}
