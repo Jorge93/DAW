@@ -1,11 +1,15 @@
-header{
-    background: #e8e8e8;
+h1{
     color:#797979;
 }
 .logo{
-    height: 54px;
-    background: #8ef0b0;
+    padding-top: 5px;
 }
 .menu li:hover{
     background: #c6c0c0;
+}
+.cabecera{
+    background-image: url(img/bg_head_top.jpg);
+}
+.verde{
+    background-image: url(img/bg_head_middle.jpg);
 }
