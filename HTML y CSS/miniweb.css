@@ -4,7 +4,6 @@ body {
     padding: 2em 2em 4em;
     max-width: 901px;
     font-family: "trebuchet ms", arial, sans-serif;
-    font-size: 16px;
     line-height: 1.5em;
 }
 
@@ -20,12 +19,7 @@ header{
     width: auto;
 }
 
-#logo{
-    background-image: url(img/bg_head_top_logo.jpg);   
-}
-
 h1{
-    font-family:"trebuchet ms", arial, sans-serif;
     color: #959292;
     float: right;
     padding-right: 22.3em;
@@ -67,7 +61,6 @@ h1{
 }
 
 #menu-horizontal ul li a{
-    font-family:"trebuchet ms", arial, sans-serif;
     font-size: 15px;
     color: #5d5d5d;
     text-decoration:none;
@@ -118,7 +111,6 @@ h1{
 
 #home ul li a{
     text-decoration:none;
-    font-family:"trebuchet ms", arial, sans-serif;
     font-size: 13px;
     font-weight: bold;
     color: #359ecb;
@@ -215,7 +207,6 @@ h4{
 }
 
 #menu-interno ul li a{
-    font-family:"trebuchet ms", arial, sans-serif;
     font-size: 16px;
     color: #359ecb;
     text-decoration:none;
@@ -224,5 +215,7 @@ h4{
 footer{
     background-image: url("img/bg_foot.jpg");
     text-align: center;
-    width: 900px;
+    width: 899px;
+    border:solid 1px;
+    border-color: #c6c6c6;
 }
