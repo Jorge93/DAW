@@ -4,12 +4,19 @@ h1{
 .logo{
     padding-top: 5px;
 }
-.menu li:hover{
-    background: #c6c0c0;
+.menu li a:hover{
+    background: #aaa;
 }
 .cabecera{
-    background-image: url(img/bg_head_top.jpg);
+    background-color: #e3e3e3;
 }
 .verde{
-    background-image: url(img/bg_head_middle.jpg);
+    background-image:  url(img/bg_head_middle.jpg);
+}
+.menu{
+    background-color: #e3e3e3;
+    color:#fff;
+}
+.menu ul li{
+    border-right: 1px solid #7C7C7C;
 }
