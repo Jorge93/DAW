@@ -78,3 +78,14 @@ h4{
     color: #359ecb;
     text-decoration:none;
 }
+
+.menu_lateral{
+    height: 100%;
+}
+
+.bordes{
+    border-right-color: #e3e3e3;
+    border-right-style: ridge;
+    border-left-color: #e3e3e3;
+    border-left-style:ridge;
+}
