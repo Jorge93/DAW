@@ -48,7 +48,6 @@ submenu li a {
 
 
 .home{
-    padding-left: 2px;
     list-style-type: square;
 }
 
@@ -82,7 +81,7 @@ h4{
 }
 
 .menu_lateral{
-    height: 100%;
+    height: 693px;
 }
 
 .bordes{
@@ -90,4 +89,16 @@ h4{
     border-left-style:ridge;
     border-right-color: #e3e3e3;
     border-right-style: ridge;
+}
+.borde_izq{
+    border-left-color: #e3e3e3;
+    border-left-style: ridge;
+}
+.borde_der{
+    border-right-color: #e3e3e3;
+    border-right-style: ridge;
+}
+.borde_inferior{
+    border-bottom-color:#e3e3e3;
+    border-bottom-style: ridge;
 }
